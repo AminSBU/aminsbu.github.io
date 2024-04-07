@@ -1,14 +1,17 @@
-Note
-====
+Steller Free Bootstrap landing page for personal and commercial use. Designed with ♥️ and creativity by Devcrud.com 
 
-Responsive Mobile First Web Template 
-Author URI: http://webthemez.com/
-Description: Ace is a responsive coming soon template, It is lightweight template comes with image slideshow background overlay pattern.
-License: Free to use for personal and commercial, but you need to place back link in the bottom of the template(Template by: webthemez.com).
+Product Page: https://wwww.devcrud.com/
 
+Credits:
 
-Credits
-=======
-Slider - http://vegas.jaysalvat.com/
-Images	Unsplash (http://unsplash.com - CC0 licensed)
-	
+    Demo Images:
+        Unsplash:       (https://www.unsplash.com)
+
+    Icons:
+		Themify Icons (https://themify.me/themify-icons)
+
+	Other:
+		jQuery (https://www.jquery.com)
+		Bootstrap (https://www.getbootstrap.com)
+		Bootstrap Affix (http://getbootstrap.com/javascript/#affix) 
+
